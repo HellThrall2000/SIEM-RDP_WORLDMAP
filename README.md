@@ -6,7 +6,8 @@
 >Setting up Azure Sentinel SIEM(Security Information and Event Management) and connecting it to a live virtual machine acting as a honeypot to observe live attacks from around the world on a map.
 
 
-https://i.redd.it/owx6nbi7qsx61.jpg
+![owx6nbi7qsx61](https://user-images.githubusercontent.com/86112651/166536085-4e9b52b7-e53e-4b95-9c9b-84a6137704bf.jpg)
+
 
 
 
@@ -25,6 +26,7 @@ https://i.redd.it/owx6nbi7qsx61.jpg
 -The powershell script Log_exporter.ps1 runs inside the vm. 
 
 -Change the API key and run the script.
+
 ![M01Q5yIuL6](https://user-images.githubusercontent.com/86112651/166531004-2efa7d52-d973-4484-82a2-49d2b673d304.gif)
 
 
