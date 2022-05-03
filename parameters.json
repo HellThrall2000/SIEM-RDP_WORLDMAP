@@ -1,0 +1,39 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "workbooks_86ee1093_56d0_45f1_9592_031f54d05edb_serializedData": {
+            "value": null
+        },
+        "virtualMachines_honeypot_vm_name": {
+            "value": null
+        },
+        "networkInterfaces_honeypot_vm953_name": {
+            "value": null
+        },
+        "publicIPAddresses_honeypot_vm_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_honeypotlab_vnet_name": {
+            "value": null
+        },
+        "workspaces_honeypotlog_name": {
+            "value": null
+        },
+        "networkSecurityGroups_honeypot_vm_nsg_name": {
+            "value": null
+        },
+        "solutions_Security_honeypotlog__name": {
+            "value": null
+        },
+        "workbooks_86ee1093_56d0_45f1_9592_031f54d05edb_name": {
+            "value": null
+        },
+        "solutions_SecurityInsights_honeypotlog__name": {
+            "value": null
+        },
+        "solutions_SecurityCenterFree_honeypotlog__name": {
+            "value": null
+        }
+    }
+}
