@@ -6,7 +6,7 @@
 >Setting up Azure Sentinel SIEM(Security Information and Event Management) and connecting it to a live virtual machine acting as a honeypot to observe live attacks from around the world on a map.
 
 
-(https://i.redd.it/owx6nbi7qsx61.jpg)]()
+https://i.redd.it/owx6nbi7qsx61.jpg
 
 
 
@@ -25,13 +25,13 @@
 -The powershell script Log_exporter.ps1 runs inside the vm. 
 
 -Change the API key and run the script.
-https://recordit.co/M01Q5yIuL6
+http://g.recordit.co/M01Q5yIuL6.gif
 
 -The log info shows :
 ![loginfo](https://user-images.githubusercontent.com/86112651/166524065-8f5b1454-9a7e-4342-9453-3a3eb2dbd18a.png)
 
 -Using microsoft sentinel go to the custom workbook and run it to view the map according to the query.
-https://recordit.co/12AVmNax4D
+https://g.recordit.co/12AVmNax4D.gif
 
 -The map shows the statistics of the attacks from all over the world
 ![map](https://user-images.githubusercontent.com/86112651/166524249-48633a92-8754-4dcf-9e5a-0b66c254b49b.png)
